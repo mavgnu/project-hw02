@@ -1,2 +1,2 @@
 Druga zadaca
-Treci zad nije funkcionalan
+Treci zad funkcionalan
